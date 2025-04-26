@@ -17,9 +17,8 @@ Program to o display the elements of the priority queue after insertion and dele
 Developed by: ADARSH CHOWDARY R
 RegisterNumber: 212223040166 
 */
-/*#include <stdio.h> 
-int size = 0; 
-*/ 
+#include <stdio.h> 
+int size = 0;  
 void printArray(int array[], int size) 
 { 
 int i; 
